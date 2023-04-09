@@ -1,0 +1,9 @@
+# Objetivo - Criar uma api que disponibiliza a consulta, criação, edição e exclusão de filmes.
+# URL base - localhost
+# Endpoints 
+#   - localhost/filmes (GET) ver todos
+#   - localhost/filmes/id (GET) ver específico
+#   - localhost/filmes/id (PUT) alterar
+#   - localhost/filmes (DELETE) deletar
+# Quais recusos  - Filmes
+# API é um lugar para disponibilizar recursos e/ou funcionalidades. 
